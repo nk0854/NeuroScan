@@ -53,7 +53,12 @@ Below is the simplified architecture used in this project:
 - The best validation accuracy was reached at the **23rd** epoch.
 
 **Loss and Accuracy Plots**  
-<img src="Loss.PNG" alt="Loss plot" width="400"/> <img src="Accuracy.PNG" alt="Accuracy plot" width="400"/>
+<table>
+  <tr>
+    <td><img src="https://github.com/user-attachments/assets/03ea9e21-a543-449a-9c56-388abe4208de" alt="Accuracy" width="400"></td>
+    <td><img src="https://github.com/user-attachments/assets/32855b05-84c0-4c77-b118-6d3cfd58d2eb" alt="Loss" width="400"></td>
+  </tr>
+</table>
 
 ## Results
 Using the best-performing model (saved at the epoch with the highest validation accuracy), we observe the following on the **test set**:
